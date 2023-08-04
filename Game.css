@@ -1,0 +1,37 @@
+#bg{
+    background-image: url("https://img.freepik.com/free-vector/empty-sky-nature-scene-park_1308-50041.jpg");
+    height:750px;
+    margin-top:-20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pic{
+    background-image:url("https://img.freepik.com/premium-vector/cute-cartoon-white-rabbits-vector-art_537358-30.jpg?w=2000");
+    height:250px;
+    width:250px;
+    background-size:contain;
+    position:relative;
+    left:650px;
+    top:100px
+}
+#sc{
+    position:relative;
+    top:10px;
+    left:30px;
+}
+#gm{
+    margin-top:50px;
+}
+#bt{
+    background-color:green;
+    position:relative;
+    top:150px;
+    left:30px;
+    font-size:25px;
+    color:White;
+}
+h3{
+    position:relative;
+    top:150px;
+    left:45px
+}
